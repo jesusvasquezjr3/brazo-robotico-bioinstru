@@ -43,6 +43,7 @@ Sistema robótico que replica movimientos humanos mediante **goniometros estrat�
 ## 📊 Resultados  
 
 ![Brazo Final](images/brazo_final.gif)
+*Figura 5. Brazo Final*
 
 ---
 

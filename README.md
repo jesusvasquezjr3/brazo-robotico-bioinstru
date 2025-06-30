@@ -5,7 +5,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-292929?style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg&logoColor=white)
-![PIC18F4550](https://img.shields.io/badge/Microcontroller-PIC18F4550-blue.svg)  
 
 ## 📌 Visión General  
 ![Brazo SolidWorks](images/brazo_solid.gif)

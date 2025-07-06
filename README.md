@@ -45,6 +45,9 @@ Sistema robótico que replica movimientos humanos mediante **goniometros estrat�
 ![Brazo Final](images/brazo_final.gif)
 *Figura 5. Brazo Final*
 
+![Funcionamiento](images/20240611_091055.jpg)
+*Figura 6. Funcionamiento del Brazo Robótico*
+
 ---
 
 ## 🚀 Aplicaciones Prácticas Posibles
